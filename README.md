@@ -6,4 +6,4 @@ Using a tensorflow model that was created in Android Studio.
 ## PLEASE NOTE THAT THIS IS EDUCATIONAL PURPOSES ONLY. THE TENSORFLOW MODEL USED IS STILL VERY INACCURATE!!
 
 
-![App_Screenshot](InsectIdentification-screenshot.jpg)
+<img src="InsectIdentification-screenshot.jpg" alt="App Screenshot" width="500" height="800">
